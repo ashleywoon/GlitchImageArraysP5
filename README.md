@@ -7,3 +7,5 @@
 ###This should display p5.js sketch
 
 ####Note: I'm using 8080 as the port, but this can be other numbers as well.
+
+##To navigate the glitch array, utilize the numbers 0-6. Each number relates to each slide image ie. image1 can be navigated to by pressing the number 1 key. 
